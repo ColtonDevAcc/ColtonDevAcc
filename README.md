@@ -7,7 +7,7 @@ Full Stack Developer
 * 🌍  I'm based in Oklahoma
 * ✉️  You can contact me at [cbristow99@gmail.com](mailto:cbristow99@gmail.com)
 * 🚀  I'm currently working on [FitStack](http://fitstack.io)
-* 🧠  I'm learning Go
+* 🧠  I'm learning Go and php 
 * 🤝  I'm open to collaborating on any Go or Flutter projects
 
 <a href="https://www.twitch.tv/therealmusclenerd" target="_blank" rel="noreferrer"><img
