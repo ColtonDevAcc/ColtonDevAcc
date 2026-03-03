@@ -28,7 +28,7 @@ I'm a software architect and entrepreneur with **9 years of experience** buildin
 | Project | Description |
 |---------|-------------|
 | [**FlightStack**](https://flightstack.voostack.com) | Self-hosted CI/CD platform for Flutter with visual pipeline editor |
-| [**AgileStack**](https://agilestack.voostack.com) | Enterprise software consulting & development |
+| [**AgileStack**](https://agilestack.com) | Enterprise software consulting & development |
 | [**FitStack**](https://fitstack.io) | Fitness tracking with health app integrations |
 | [**VetStack**](https://voostack.com) | VA benefits tracking for veterans |
 | [**IgniteStack**](https://voostack.com) | SEO analysis & monitoring platform |
